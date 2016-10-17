@@ -34,3 +34,4 @@ My first pass leetcode solutions using python.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 23.3% | Medium | | |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 20.2% | Hard | | |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | 36.6% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/107.py) | |
+| 422 | [Valid Word Square](http://bookshadow.com/weblog/2016/10/16/leetcode-valid-word-square/) | 37.4% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/422.py) | [✓](https://tonycao.gitbooks.io/leetcode-locked/content/LeetCode%20Locked/c1.4.html) |
