@@ -55,10 +55,10 @@ My first pass leetcode solutions using python.
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | 38.1% | Easy | | |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 38.1% | Easy | | |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | 38.1% | Easy | | |
-| 246 | [Strobogrammatic Number](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html) | 38.0% | Easy | | [✓](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html） |
+| 246 | [Strobogrammatic Number](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html) | 38.0% | Easy | | [✓](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | 37.8% | Easy | | |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 37.3% | Easy | | |
-| 270 | [Closest Binary Search Tree Value](http://blog.csdn.net/xudli/article/details/48749493) | 36.8% | Easy | |  [✓](http://blog.csdn.net/xudli/article/details/48749493） |
+| 270 | [Closest Binary Search Tree Value](http://blog.csdn.net/xudli/article/details/48749493) | 36.8% | Easy | |  [✓](http://blog.csdn.net/xudli/article/details/48749493) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | 36.8% | Easy | | |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | 36.7% | Easy | | |
 
