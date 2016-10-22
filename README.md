@@ -35,3 +35,30 @@ My first pass leetcode solutions using python.
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | 36.6% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/107.py) | |
 | 422 | [Valid Word Square](http://bookshadow.com/weblog/2016/10/16/leetcode-valid-word-square/) | 37.4% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/422.py) | [✓](http://bookshadow.com/weblog/2016/10/16/leetcode-valid-word-square/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | 44.4% | Easy | | |
+| 252 | [Meeting Rooms](http://www.guoting.org/leetcode/leetcode-252-meeting-rooms/) | 44.3% | Easy | | [✓](http://www.guoting.org/leetcode/leetcode-252-meeting-rooms/) |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | 23.7% | Easy | | |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | 44.1% | Easy | | |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | 44.1% | Easy | | |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | 44.1% | Easy | | |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | 43.9% | Easy | | |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 42.9% | Easy | | |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | 42.8% | Easy | | |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | 42.5% | Easy | | |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 42.4% | Easy | | |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | 41.8% | Easy | | |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | 41.2% | Easy | | |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | 38.8% | Easy | | |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | 38.8% | Easy | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | 38.5% | Easy | | |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | 38.3% | Easy | | |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 38.2% | Easy | | |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | 38.1% | Easy | | |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | 38.1% | Easy | | |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | 38.1% | Easy | | |
+| 246 | [Strobogrammatic Number](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html) | 38.0% | Easy | | [✓](https://kennyzhuang.gitbooks.io/leetcode-lock/content/246_strobogrammatic_number.html） |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | 37.8% | Easy | | |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | 37.3% | Easy | | |
+| 270 | [Closest Binary Search Tree Value](http://blog.csdn.net/xudli/article/details/48749493) | 36.8% | Easy | |  [✓](http://blog.csdn.net/xudli/article/details/48749493） |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | 36.8% | Easy | | |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | 36.7% | Easy | | |
+
