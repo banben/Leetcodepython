@@ -1,5 +1,6 @@
 # Leetcodepython
-My first pass leetcode solutions using python.
+My first pass leetcode solutions using python. Problem solved list is as below. In my first pass, I only focus on ideas, so most of
+my code will not be uploaded.
 
 | # | Title | Acceptance | Difficulty | Uploaded? | Reference? |
 | :---: | :----------------- | :-----: | :-----: | :----: | :----: |
