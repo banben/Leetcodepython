@@ -3,7 +3,6 @@ My first pass leetcode solutions using python.
 
 | # | Title | Acceptance | Difficulty | Uploaded? | Reference? |
 | :---: | :----------------- | :-----: | :-----: | :----: | :----: |
-| 339 | [Nested List Weight Sum](http://www.cnblogs.com/grandyang/p/5340305.html) |58.7%|Easy||[✓](http://www.cnblogs.com/grandyang/p/5340305.html)|
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) |58.3%|Easy|||
 | 339 | [Nested List Weight Sum](http://www.cnblogs.com/grandyang/p/5340305.html) |58.7%|Easy||[✓](http://www.cnblogs.com/grandyang/p/5340305.html)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) |58.1%|Easy|||
@@ -35,3 +34,4 @@ My first pass leetcode solutions using python.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | 20.2% | Hard | | |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | 36.6% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/107.py) | |
 | 422 | [Valid Word Square](http://bookshadow.com/weblog/2016/10/16/leetcode-valid-word-square/) | 37.4% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/422.py) | [✓](http://bookshadow.com/weblog/2016/10/16/leetcode-valid-word-square/) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | 44.4% | Easy | | |
