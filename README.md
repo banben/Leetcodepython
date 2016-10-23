@@ -63,3 +63,4 @@ my code will not be uploaded.
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | 36.8% | Easy | | |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | 36.7% | Easy | | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | 42.7% | Easy | | [✓](https://discuss.leetcode.com/topic/59494/3ms-java-solution-using-backtracking-and-idea-of-permutation-and-combination) |
+| 249 | [Group Shifted Strings](http://www.cnblogs.com/grandyang/p/5204770.html) | 36.4% | Easy | | [✓](http://www.cnblogs.com/grandyang/p/5204770.html) |
