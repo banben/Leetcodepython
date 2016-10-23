@@ -66,3 +66,4 @@ my code will not be uploaded.
 | 249 | [Group Shifted Strings](http://www.cnblogs.com/grandyang/p/5204770.html) | 36.4% | Easy | | [✓](http://www.cnblogs.com/grandyang/p/5204770.html) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | 36.1% | Easy | | |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | 36.1% | Easy | | |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 35.8% | Easy | | |
