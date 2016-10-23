@@ -65,3 +65,4 @@ my code will not be uploaded.
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | 42.7% | Easy | | [✓](https://discuss.leetcode.com/topic/59494/3ms-java-solution-using-backtracking-and-idea-of-permutation-and-combination) |
 | 249 | [Group Shifted Strings](http://www.cnblogs.com/grandyang/p/5204770.html) | 36.4% | Easy | | [✓](http://www.cnblogs.com/grandyang/p/5204770.html) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | 36.1% | Easy | | |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | 36.1% | Easy | | |
