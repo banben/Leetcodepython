@@ -69,3 +69,5 @@ my code will not be uploaded.
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | 35.8% | Easy | | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | 35.7% | Easy | | |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | 35.7% | Easy | | [✓](http://www.jiuzhang.com/solutions/balanced-binary-tree/) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber) | 36.7% | Easy | | [✓](http://www.qiujiawei.com/leetcode-problem-198/) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | 36.7% | Easy | [✓](https://github.com/banben/Leetcodepython/blob/master/Solutions/345.py) | [✓](http://bookshadow.com/weblog/2016/04/23/leetcode-reverse-vowels-string/) |
